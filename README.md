@@ -1,5 +1,4 @@
-```python
-coding = True
-while coding:
-  coffee.drink() if coffee.is_full else coffee.fill()
+```bash
+connection with reality established...
+ping: 4226ms
 ```
